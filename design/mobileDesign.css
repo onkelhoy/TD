@@ -1,0 +1,18 @@
+#bottom_menu {
+	left: 0;
+	top: 0;
+	display: none;
+}
+#right_menu{
+	display: none;
+}
+#bottom_menu_btn {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#right_menu_btn {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
